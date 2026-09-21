@@ -1,4 +1,4 @@
-# Financial Fraud Detection and Prevention
+# Risk Score-based Financial Fraud Detection and Prevention
 
 A machine learning-based system to detect and flag suspicious financial transactions, helping prioritize high-risk cases for review.
 
